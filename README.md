@@ -1,8 +1,3 @@
-# Throwing-Knives
-Lets the players throw knives that can inflict damage upon the opposing team.
-
-
-
 # [Throwing Knives]
 ## About
 With this plugin installed on your server, players will be able to access throwing knives.
